@@ -43,4 +43,5 @@ The final course grade will be computed as follows:
 |Tasks| Scores|
 |---| ---|
 |Attendance| 20 |
-|1 project (code+report)| 80 |
+|In-class tasks| 20 |
+|1 project (code+report)| 60 |
