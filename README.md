@@ -19,8 +19,7 @@ This course requires you having a good programming skill in C++ and a good knowl
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
 - Jul./19: [Introduction](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/01-Introduction.pdf)
-- Jul./20: [Basic Linear Algebra]()
-- Jul./20: [Shape Representation]()
+- Jul./20: [Shape Representation](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/02-Shape%20Representation.pdf)
 - Jul./21: [Acquisition]()
 - Jul./21: [Mesh]()
 - Jul./22: [Reconstruction]()
