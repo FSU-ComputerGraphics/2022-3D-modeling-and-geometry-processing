@@ -21,7 +21,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jul./19: [Introduction](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/01-Introduction.pdf)
 - Jul./20: [Shape Representation](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/02-Shape%20Representation.pdf)
 - Jul./21: [Acquisition and Mesh](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/03-Acquisition-and-mesh.pdf)
-- Jul./22: [Reconstruction]()
+- Jul./22: [Reconstruction](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/04-Reconstruction.pdf)
 - Jul./25: [Normal]()
 - Jul./25: [Curves]()
 - Jul./26: [Surface]()
