@@ -24,9 +24,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jul./22: [Reconstruction](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/04-Reconstruction.pdf)
 - Jul./25: [Normal](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/05-Normal%20Estimation.pdf)
 - Jul./26: [Curves](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/06-Surfaces.pdf)
-- Jul./27: [Smoothing]()
-- Jul./27: [Smoothing]()
-- Jul./28: [Animation]()
+- Jul./27: [Smoothing](https://github.com/FSU-ComputerGraphics/2022-3D-modeling-and-geometry-processing/blob/main/07-Smoothing.pdf)
 - Jul./28: [Animation]()
 
 ### Projects
